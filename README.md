@@ -1,9 +1,3 @@
-Here’s a **clean, modern, and professional `README.md`** you can use to replace the existing one.
-It keeps the original intent but improves structure, clarity, and GitHub presentation.
-
----
-
-```markdown
 # Product Landing Page using HTML, CSS & JavaScript
 
 A visually appealing **product landing page** built using **HTML**, **CSS**, and **JavaScript**, featuring smooth and modern animations powered by **GSAP (GreenSock Animation Platform)**.
@@ -90,21 +84,3 @@ By working on this project, you will learn:
 Created by **Code Savvy**
 Don’t forget to ⭐ the repository if you found it helpful!
 
----
-
-## 📜 License
-
-This project is open-source and available for learning and personal use.
-
-```
-
----
-
-If you want, I can also:
-- Make it **more beginner-friendly**
-- Add **badges (HTML, CSS, JS, GSAP)**
-- Rewrite it for a **portfolio-ready project**
-- Optimize it for **GitHub SEO**
-
-Just tell me 👍
-```
