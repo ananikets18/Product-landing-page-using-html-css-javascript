@@ -72,7 +72,6 @@ By working on this project, you will learn:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ananikets18/Product-landing-page-using-html-css-javascript.git
-````
 
 2. Open `index.html` in your browser
 3. Explore and customize the design
